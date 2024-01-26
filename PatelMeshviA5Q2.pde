@@ -1,6 +1,4 @@
-/*Meshvi Pramodbhai Patel
-  PATMD2003
-  COMP1010 Assignment-5 */
+
 import javax.swing.JOptionPane;
 int gridRow=9; // to store the number of rows and columns
 int[] arrBlue=new int [81]; //array to hold the values that are provided by the computer
